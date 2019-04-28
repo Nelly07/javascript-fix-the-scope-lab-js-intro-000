@@ -1,6 +1,6 @@
 var animal = 'dog'
 
-function FixtheScope(){
+
 function myAnimal() {
   return animal
 }
@@ -28,7 +28,7 @@ var funkyFunction=function(){
   }
 }
 
-}
+
 
 
 
